@@ -1,1 +1,3 @@
-# Liu-Wai-Ki-Week-11---Assignment-5
+streamlit>=1.25.0
+openai>=0.28.0
+python-dotenv>=1.0.0
